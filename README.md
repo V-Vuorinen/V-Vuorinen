@@ -4,5 +4,4 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 It's your friendly neighborhood builder.
 
 Contacts:
-[vaino.vuorinen@interavanti.fi](mailto:vaino.vuorinen@interavanti.fi) /n
-https://www.linkedin.com/in/väinö-vuorinen-3727b71a2/
+[vaino.vuorinen@interavanti.fi](mailto:vaino.vuorinen@interavanti.fi)
