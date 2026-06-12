@@ -5,4 +5,4 @@ It's your friendly neighborhood builder.
 
 Contacts:
 [vaino.vuorinen@interavanti.fi](mailto:vaino.vuorinen@interavanti.fi)
-href="https://www.linkedin.com/in/väinö-vuorinen-3727b71a2/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" 
+https://www.linkedin.com/in/väinö-vuorinen-3727b71a2/
